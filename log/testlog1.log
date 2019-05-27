@@ -1,0 +1,584 @@
+2019-05-25 16:39:03,991 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 16:39:04,039 [main] INFO Loginpage - fetching the website url
+2019-05-25 16:39:04,039 [main] INFO Loginpage - The login page is opened
+2019-05-25 16:39:05,053 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 16:39:14,853 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 16:39:14,854 [main] INFO Loginpage - fetching the website url
+2019-05-25 16:39:14,855 [main] INFO Loginpage - The login page is opened
+2019-05-25 16:39:15,586 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 16:39:24,600 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 16:39:24,601 [main] INFO Loginpage - fetching the website url
+2019-05-25 16:39:24,602 [main] INFO Loginpage - The login page is opened
+2019-05-25 16:39:36,964 [main] INFO Loginpage - Given correct username and password
+2019-05-25 16:39:48,729 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 16:39:48,731 [main] INFO Loginpage - fetching the website url
+2019-05-25 16:39:48,731 [main] INFO Loginpage - The login page is opened
+2019-05-25 16:39:48,762 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 17:03:20,450 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:03:20,490 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:03:20,490 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:03:27,223 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:03:32,381 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:03:32,382 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:03:44,046 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:03:44,047 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:03:44,047 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:03:49,490 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:04:19,212 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:04:19,215 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:04:19,215 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:04:24,768 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:04:55,265 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:04:55,294 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:04:55,295 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:05:02,675 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:05:30,647 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:05:30,648 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:05:30,648 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:05:35,225 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:05:35,370 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:05:35,370 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:07:41,972 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:07:42,023 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:07:42,023 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:07:49,512 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:07:54,236 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:07:54,236 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:08:03,840 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:08:03,841 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:08:03,842 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:08:10,586 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:08:41,145 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:08:41,147 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:08:41,148 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:08:51,539 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:09:19,921 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:09:19,921 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:09:19,923 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:09:25,888 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:09:26,037 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:09:26,037 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:10:54,856 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:10:54,888 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:10:54,889 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:11:03,513 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:11:07,062 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:11:07,063 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:11:14,206 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:11:14,208 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:11:14,208 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:11:19,918 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:11:48,830 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:11:48,832 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:11:48,833 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:11:57,571 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:11:57,672 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:11:57,672 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:13:19,220 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:13:19,261 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:13:19,261 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:13:27,064 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:13:28,648 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:13:28,648 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:13:35,332 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:13:35,333 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:13:35,334 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:13:39,866 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:13:52,642 [main] INFO Homepage - Clicked on the writing blog
+2019-05-25 17:13:52,648 [main] INFO Homepage - The page is redirected to new writing blog
+2019-05-25 17:14:00,635 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:14:00,636 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:14:00,637 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:14:04,752 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:14:04,867 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:14:04,868 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:16:17,426 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:16:17,461 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:16:17,461 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:16:24,737 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:16:25,956 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:16:25,956 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:16:34,318 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:16:34,320 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:16:34,321 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:16:38,671 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:16:50,854 [main] INFO Homepage - Clicked on the welcome add page
+2019-05-25 17:16:50,854 [main] INFO Homepage - The page is redirected to welcome add page
+2019-05-25 17:16:57,714 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:16:57,715 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:16:57,715 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:17:01,308 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:17:19,877 [main] INFO Homepage - Clicked on the  customize link
+2019-05-25 17:17:19,878 [main] INFO Homepage - The page is redirected to Customized link
+2019-05-25 17:17:27,635 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:17:27,636 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:17:27,636 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:17:32,737 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:17:48,140 [main] INFO Homepage - Clicked on the writing blog
+2019-05-25 17:17:48,141 [main] INFO Homepage - The page is redirected to new writing blog
+2019-05-25 17:17:55,999 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:17:56,000 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:17:56,001 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:18:04,676 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:18:04,803 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:18:04,803 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:21:49,982 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 17:21:50,016 [main] INFO Loginpage - fetching the website url
+2019-05-25 17:21:50,017 [main] INFO Loginpage - The login page is opened
+2019-05-25 17:21:51,490 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 17:21:57,337 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 17:21:57,338 [main] INFO Loginpage - fetching the website url
+2019-05-25 17:21:57,338 [main] INFO Loginpage - The login page is opened
+2019-05-25 17:21:58,169 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 17:22:03,646 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 17:22:03,647 [main] INFO Loginpage - fetching the website url
+2019-05-25 17:22:03,647 [main] INFO Loginpage - The login page is opened
+2019-05-25 17:22:06,123 [main] INFO Loginpage - Given correct username and password
+2019-05-25 17:22:13,080 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 17:22:13,083 [main] INFO Loginpage - fetching the website url
+2019-05-25 17:22:13,083 [main] INFO Loginpage - The login page is opened
+2019-05-25 17:22:13,113 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 17:23:58,592 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:23:58,628 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:23:58,630 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:24:00,923 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:24:01,457 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:24:01,457 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:24:07,584 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:24:07,585 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:24:07,585 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:24:10,186 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:24:17,685 [main] INFO Homepage - Clicked on the welcome add page
+2019-05-25 17:24:17,685 [main] INFO Homepage - The page is redirected to welcome add page
+2019-05-25 17:24:23,414 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:24:23,416 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:24:23,416 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:24:26,708 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:24:38,561 [main] INFO Homepage - Clicked on the  customize link
+2019-05-25 17:24:38,561 [main] INFO Homepage - The page is redirected to Customized link
+2019-05-25 17:24:44,130 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:24:44,131 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:24:44,131 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:24:46,570 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:24:54,943 [main] INFO Homepage - Clicked on the writing blog
+2019-05-25 17:24:54,943 [main] INFO Homepage - The page is redirected to new writing blog
+2019-05-25 17:25:00,734 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:25:00,735 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:25:00,735 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:25:03,049 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:25:03,143 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:25:03,143 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 17:34:47,534 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:34:47,584 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:34:47,584 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:34:55,030 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:34:56,504 [main] INFO Homepage - Clicked on the Comments link
+2019-05-25 17:34:56,504 [main] INFO Homepage - The page is redirected to comments page
+2019-05-25 17:35:02,795 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:35:02,796 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:35:02,796 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:35:06,400 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:35:17,786 [main] INFO Homepage - Clicked on the welcome add page
+2019-05-25 17:35:17,786 [main] INFO Homepage - The page is redirected to welcome add page
+2019-05-25 17:35:24,624 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:35:24,626 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:35:24,626 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:35:27,566 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:35:42,733 [main] INFO Homepage - Clicked on the  customize link
+2019-05-25 17:35:42,733 [main] INFO Homepage - The page is redirected to Customized link
+2019-05-25 17:35:49,883 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:35:49,884 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:35:49,884 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:35:56,156 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:36:24,400 [main] INFO Homepage - The browser is getting launched
+2019-05-25 17:36:24,401 [main] INFO Homepage - The url is getting fetched
+2019-05-25 17:36:24,401 [main] INFO Homepage - The loginpage is opened
+2019-05-25 17:36:29,464 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-25 17:36:29,566 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-25 17:36:29,566 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-25 18:58:17,853 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:17,881 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:17,881 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:18,656 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:18,657 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:18,658 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:19,357 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:19,358 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:19,359 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:20,598 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 18:58:20,598 [main] INFO Loginpage - fetching the website url
+2019-05-25 18:58:20,599 [main] INFO Loginpage - The login page is opened
+2019-05-25 18:58:20,604 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:02:51,868 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:02:52,174 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:02:52,175 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:02:53,230 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:03:01,497 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:01,498 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:01,498 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:02,195 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:03:10,738 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:10,739 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:10,739 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:15,117 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:03:21,731 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:03:21,733 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:03:21,733 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:03:21,748 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:03:52,378 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:03:52,436 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:03:52,437 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:06:57,643 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:57,669 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:57,669 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:06:58,485 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:58,486 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:58,486 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:06:59,144 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:06:59,148 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:06:59,148 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:07:04,302 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:07:04,303 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:07:04,303 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:07:04,308 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:19:11,637 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:19:11,691 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:19:11,692 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:32:15,799 [main] INFO Homepage - The browser is getting launched
+2019-05-25 19:32:15,826 [main] INFO Homepage - The url is getting fetched
+2019-05-25 19:32:15,826 [main] INFO Homepage - The loginpage is opened
+2019-05-25 19:33:12,655 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:12,756 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:12,756 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:13,751 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:33:24,469 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:24,470 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:24,470 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:25,406 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:33:32,864 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:32,865 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:32,865 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:38,742 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:33:47,704 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:33:47,706 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:33:47,706 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:33:47,718 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-25 19:52:48,685 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:50,766 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:50,799 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:50,799 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:51,174 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:51,205 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-25 19:52:52,392 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:53,655 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:53,664 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:53,665 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:53,853 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:53,869 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-25 19:52:54,556 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:56,650 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:52:56,658 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:52:56,658 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:52:56,878 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:52:56,893 [main] INFO Loginpage - Given correct username and password
+2019-05-25 19:52:59,205 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-25 19:53:01,797 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-25 19:53:01,805 [main] INFO Loginpage - fetching the website url
+2019-05-25 19:53:01,805 [main] INFO Loginpage - The login page is opened
+2019-05-25 19:53:01,806 [main] INFO Loginpage - The title of the page isLog In ‹ opensourcecms — WordPress
+2019-05-27 09:56:25,761 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:56:25,795 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:56:25,796 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:56:27,692 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:56:28,251 [main] INFO Homepage - Clicked on the Comments link
+2019-05-27 09:56:28,252 [main] INFO Homepage - The page is redirected to comments page
+2019-05-27 09:56:32,817 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:56:32,819 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:56:32,819 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:56:34,776 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:56:39,592 [main] INFO Homepage - Clicked on the welcome add page
+2019-05-27 09:56:39,592 [main] INFO Homepage - The page is redirected to welcome add page
+2019-05-27 09:56:44,031 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:56:44,034 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:56:44,034 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:56:45,865 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:56:52,500 [main] INFO Homepage - Clicked on the  customize link
+2019-05-27 09:56:52,502 [main] INFO Homepage - The page is redirected to Customized link
+2019-05-27 09:56:56,389 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:56:56,390 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:56:56,390 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:56:58,255 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:04,618 [main] INFO Homepage - Clicked on the writing blog
+2019-05-27 09:57:04,619 [main] INFO Homepage - The page is redirected to new writing blog
+2019-05-27 09:57:08,582 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:08,583 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:08,583 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:10,425 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:10,612 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-27 09:57:10,613 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-27 09:57:30,429 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:31,752 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:31,780 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:31,781 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:32,197 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:32,217 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:32,843 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:33,724 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:33,725 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:33,725 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:33,918 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:33,932 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:34,563 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:35,403 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:35,405 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:35,405 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:35,591 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:35,599 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:36,145 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:36,976 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:36,977 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:36,977 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:37,167 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:37,176 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:57:39,751 [pool-5-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:40,620 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:57:40,621 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:57:40,622 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:57:40,814 [pool-5-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 09:57:40,822 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:58:57,059 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:58:57,093 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:58:57,094 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:58:57,546 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:58:59,182 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:58:59,183 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:58:59,183 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:58:59,435 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:59:00,940 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:59:00,942 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:59:00,942 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:59:01,149 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:59:02,532 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:59:02,533 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:59:02,533 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:59:02,719 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 09:59:06,123 [main] INFO Homepage - The browser is getting launched
+2019-05-27 09:59:06,123 [main] INFO Homepage - The url is getting fetched
+2019-05-27 09:59:06,124 [main] INFO Homepage - The loginpage is opened
+2019-05-27 09:59:06,294 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:00,399 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:00,432 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:00,433 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:00,850 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:02,321 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:02,322 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:02,322 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:02,560 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:04,107 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:04,112 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:04,112 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:04,308 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:05,735 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:05,736 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:05,736 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:05,912 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:09,288 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:09,289 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:09,290 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:09,480 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:51,080 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:51,117 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:51,117 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:52,899 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:00:53,408 [main] INFO Homepage - Clicked on the Comments link
+2019-05-27 10:00:53,408 [main] INFO Homepage - The page is redirected to comments page
+2019-05-27 10:00:56,067 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:00:56,068 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:00:56,069 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:00:57,981 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:01:02,931 [main] INFO Homepage - Clicked on the welcome add page
+2019-05-27 10:01:02,932 [main] INFO Homepage - The page is redirected to welcome add page
+2019-05-27 10:01:05,790 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:01:05,793 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:01:05,793 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:01:07,700 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:01:14,490 [main] INFO Homepage - Clicked on the  customize link
+2019-05-27 10:01:14,491 [main] INFO Homepage - The page is redirected to Customized link
+2019-05-27 10:01:17,231 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:01:17,231 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:01:17,232 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:01:18,961 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:01:25,570 [main] INFO Homepage - Clicked on the writing blog
+2019-05-27 10:01:25,571 [main] INFO Homepage - The page is redirected to new writing blog
+2019-05-27 10:01:28,362 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:01:28,363 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:01:28,363 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:01:30,135 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:01:30,396 [main] INFO Homepage - Clicked on the post menu option present in side menu
+2019-05-27 10:01:30,397 [main] INFO Homepage - The sub-optionns in post are getting displayed
+2019-05-27 10:04:56,812 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:04:56,842 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:04:56,843 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:04:57,685 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:04:59,473 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:04:59,474 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:04:59,474 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:04:59,672 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:05:01,182 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:05:01,187 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:05:01,188 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:05:01,405 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:05:02,816 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:05:02,817 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:05:02,817 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:05:02,999 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:05:06,377 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:05:06,377 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:05:06,378 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:05:06,564 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:08:59,516 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:00,768 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:09:00,793 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:09:00,793 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:09:01,198 [pool-1-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:01,213 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:09:02,219 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:03,093 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:09:03,094 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:09:03,094 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:09:03,301 [pool-2-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:03,315 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:09:03,949 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:04,787 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:09:04,789 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:09:04,789 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:09:04,989 [pool-3-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:05,000 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:09:05,560 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:06,398 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:09:06,399 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:09:06,399 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:09:06,576 [pool-4-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:06,585 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:09:09,146 [pool-5-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:09,971 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:09:09,972 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:09:09,972 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:09:10,153 [pool-5-thread-1] WARN com.gargoylesoftware.htmlunit.html.HtmlLink - Link type 'dns-prefetch' not supported.
+2019-05-27 10:09:10,162 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:11,920 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:11,974 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:11,974 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:13,325 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:15,191 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:15,192 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:15,193 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:15,682 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:15,710 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:15,710 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:15,916 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:16,898 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:17,440 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:17,447 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:17,447 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:18,230 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:18,542 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:18,543 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:18,543 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:19,325 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:19,755 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:19,756 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:19,756 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:20,468 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:20,978 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:20,984 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:20,984 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:21,697 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:23,139 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:23,140 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:23,141 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:23,800 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:23,897 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:23,898 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:23,898 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:24,572 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:15:27,217 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:15:27,218 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:15:27,218 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:15:27,926 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:31,323 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:16:31,357 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:16:31,358 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:16:32,310 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:33,816 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:16:33,817 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:16:33,818 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:16:34,499 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:35,977 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:16:35,979 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:16:35,979 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:16:36,662 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:38,140 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:16:38,141 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:16:38,142 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:16:38,784 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:42,229 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:16:42,230 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:16:42,230 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:16:42,914 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:16:54,159 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-27 10:16:54,190 [main] INFO Loginpage - fetching the website url
+2019-05-27 10:16:54,190 [main] INFO Loginpage - The login page is opened
+2019-05-27 10:16:55,222 [main] INFO Loginpage - given correct username and incorrect password
+2019-05-27 10:16:56,692 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-27 10:16:56,693 [main] INFO Loginpage - fetching the website url
+2019-05-27 10:16:56,693 [main] INFO Loginpage - The login page is opened
+2019-05-27 10:16:57,400 [main] INFO Loginpage - given incorrect username and correct password
+2019-05-27 10:16:58,897 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-27 10:16:58,898 [main] INFO Loginpage - fetching the website url
+2019-05-27 10:16:58,898 [main] INFO Loginpage - The login page is opened
+2019-05-27 10:16:59,577 [main] INFO Loginpage - Given correct username and password
+2019-05-27 10:17:01,036 [main] INFO Loginpage - The browser is intilalised and opened
+2019-05-27 10:17:01,038 [main] INFO Loginpage - fetching the website url
+2019-05-27 10:17:01,038 [main] INFO Loginpage - The login page is opened
+2019-05-27 10:17:01,042 [main] INFO Loginpage - The title of the page isLog In â€¹ opensourcecms â€” WordPress
+2019-05-27 10:18:19,707 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:18:19,740 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:18:19,740 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:18:21,076 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:18:22,657 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:18:22,658 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:18:22,659 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:18:23,355 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:18:24,824 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:18:24,826 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:18:24,827 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:18:25,512 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:18:26,930 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:18:26,931 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:18:26,931 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:18:27,639 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:18:29,079 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:18:29,079 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:18:29,080 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:18:29,765 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:20:39,543 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:20:39,571 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:20:39,572 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:20:40,020 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:20:41,713 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:20:41,714 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:20:41,714 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:20:41,946 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:20:43,442 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:20:43,444 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:20:43,444 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:20:43,642 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:20:45,046 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:20:45,047 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:20:45,047 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:20:45,227 [main] INFO Homepage - The login page is validated with correct username and password
+2019-05-27 10:20:46,640 [main] INFO Homepage - The browser is getting launched
+2019-05-27 10:20:46,641 [main] INFO Homepage - The url is getting fetched
+2019-05-27 10:20:46,642 [main] INFO Homepage - The loginpage is opened
+2019-05-27 10:20:46,832 [main] INFO Homepage - The login page is validated with correct username and password
